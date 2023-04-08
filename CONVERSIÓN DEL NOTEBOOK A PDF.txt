@@ -1,0 +1,1 @@
+jupyter nbconvert --to pdf "Documento - Análisis Factorial - Marcelo Chávez.ipynb"
